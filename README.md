@@ -1,2 +1,2 @@
 # sort
-All the Sorting Algorithms in Java
+All Sorting Algorithms implemented in Java
